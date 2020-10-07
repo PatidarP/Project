@@ -1,2 +1,5 @@
-//alert("FUCK YOU");
-showMessage("FUCK YOU AND");
+'use strict';
+
+const productId = 1234;
+
+console.log(productId);
